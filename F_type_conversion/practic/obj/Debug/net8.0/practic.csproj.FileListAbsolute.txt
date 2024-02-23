@@ -1,0 +1,14 @@
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.AssemblyInfoInputs.cache
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.AssemblyInfo.cs
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.csproj.CoreCompileInputs.cache
+D:\6th Semester\vpcs-main\F_type_conversion\practic\bin\Debug\net8.0\practic.exe
+D:\6th Semester\vpcs-main\F_type_conversion\practic\bin\Debug\net8.0\practic.deps.json
+D:\6th Semester\vpcs-main\F_type_conversion\practic\bin\Debug\net8.0\practic.runtimeconfig.json
+D:\6th Semester\vpcs-main\F_type_conversion\practic\bin\Debug\net8.0\practic.dll
+D:\6th Semester\vpcs-main\F_type_conversion\practic\bin\Debug\net8.0\practic.pdb
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.dll
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\refint\practic.dll
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.pdb
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\practic.genruntimeconfig.cache
+D:\6th Semester\vpcs-main\F_type_conversion\practic\obj\Debug\net8.0\ref\practic.dll

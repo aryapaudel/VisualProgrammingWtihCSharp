@@ -1,0 +1,4 @@
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\d_parameterized_constructor\obj\Debug\net8.0\d_parameterized_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\d_parameterized_constructor\obj\Debug\net8.0\d_parameterized_constructor.AssemblyInfoInputs.cache
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\d_parameterized_constructor\obj\Debug\net8.0\d_parameterized_constructor.AssemblyInfo.cs
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\d_parameterized_constructor\obj\Debug\net8.0\d_parameterized_constructor.csproj.CoreCompileInputs.cache

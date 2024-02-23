@@ -1,0 +1,14 @@
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\bin\Debug\net8.0\a_constructor.exe
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\bin\Debug\net8.0\a_constructor.deps.json
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\bin\Debug\net8.0\a_constructor.runtimeconfig.json
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\bin\Debug\net8.0\a_constructor.dll
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\bin\Debug\net8.0\a_constructor.pdb
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfoInputs.cache
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.AssemblyInfo.cs
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.csproj.CoreCompileInputs.cache
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.dll
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\refint\a_constructor.dll
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.pdb
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\a_constructor.genruntimeconfig.cache
+D:\6th Semester\vpcs-main\vpcs-main\G_constructor\a_constructor\obj\Debug\net8.0\ref\a_constructor.dll

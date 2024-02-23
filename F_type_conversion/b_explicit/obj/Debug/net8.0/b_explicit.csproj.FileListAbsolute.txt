@@ -1,0 +1,14 @@
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\bin\Debug\net8.0\b_explicit.exe
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\bin\Debug\net8.0\b_explicit.deps.json
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\bin\Debug\net8.0\b_explicit.runtimeconfig.json
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\bin\Debug\net8.0\b_explicit.dll
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\bin\Debug\net8.0\b_explicit.pdb
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.AssemblyInfoInputs.cache
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.AssemblyInfo.cs
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.csproj.CoreCompileInputs.cache
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.dll
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\refint\b_explicit.dll
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.pdb
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\b_explicit.genruntimeconfig.cache
+D:\6th Semester\vpcs-main\F_type_conversion\b_explicit\obj\Debug\net8.0\ref\b_explicit.dll
